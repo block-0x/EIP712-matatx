@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.9"
+  },
+  "scripts": {},
+  "eslintConfig": {},
+  "browserslist": {}
+}
